@@ -41,3 +41,4 @@ The Anaconda Python Distribution includes astropy and is the recommended way to 
 
 
 ## Session 4: Color-Magnitude Diagram
+[CMD Jupyter Notebook](https://github.com/Horizonrepo/PythonForAstronomy/blob/master/Color-Magnitude-Diagrams/Color-Magnitude%20Diagrams.ipynb)
