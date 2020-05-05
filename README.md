@@ -9,13 +9,16 @@ Starting with a basic introduction to Python, we will be using some Python modul
 
 
 [YouTube video link](https://youtu.be/HfYR0uwYAyM)
+
+
 [Python Basics Part 1 notebook](https://github.com/Horizonrepo/PythonForAstronomy/blob/master/Python%20Basics1/PYTHON%20TUTORIAL%201.ipynb)
 
 ## Session 2: Python Basics part2: Plotting and Visualization
 
 
 [YouTube video link](https://youtu.be/bGQQnNWlcMM)
-[Python Basics Part 2 notebook]:(https://github.com/Horizonrepo/PythonForAstronomy/blob/master/Python%20Basic%202/PYTHON_TUTORIAL%202.ipynb)
+
+[Python Basics Part 2 notebook](https://github.com/Horizonrepo/PythonForAstronomy/blob/master/Python%20Basic%202/PYTHON_TUTORIAL%202.ipynb)
 
 
 ### Installing Astropy
