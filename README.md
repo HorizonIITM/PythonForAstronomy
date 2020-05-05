@@ -24,6 +24,7 @@ Starting with a basic introduction to Python, we will be using some Python modul
 ### Installing Astropy
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/5/5a/Logo_of_the_Astropy_Project.png)
+
 Astropy link: https://www.astropy.org/
 
 To install astropy from source into a existing Python installation without using Anaconda, use the following:
