@@ -34,3 +34,10 @@ The Anaconda Python Distribution includes astropy and is the recommended way to 
 `<conda update astropy>`
   
 ## Session 3: Manipulating FITS files using Astropy
+
+[YouTube video link](https://youtu.be/goH9yXu4jWw)
+
+[FITS Handling notebook](https://github.com/Horizonrepo/PythonForAstronomy/blob/master/FITS%20Handling/PythonforAstronomy3.ipynb)
+
+
+## Session 4: Color-Magnitude Diagram
